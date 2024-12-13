@@ -104,7 +104,7 @@ I wanted to use Jest more, but I didn’t have enough time. However, if I had mo
 - **Passwords**: Passwords are not supposed to be seen so easily like that, it should normaly be bcrypt. 
 - **Admin making a cv**: If an admin wants to make an cv they have to do it through Cv's and connect their user to it.
 
-There have been a lot of family events during the exam. I'm not saying this to get sympathy, but I think it's important to mention the mistakes and what could have been done differently so you know I didn’t just leave it unfinished. The code that is done may not be perfect, but I tried my best.
+There have been a lot of family things during the exam. I'm not saying this to get sympathy, but I think it's important to mention the mistakes and what could have been done differently so you know I didn’t just leave it unfinished. The code that is done may not be perfect, but I tried my best.
 
 
 ## Inspiration 
