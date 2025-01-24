@@ -1,5 +1,7 @@
 # Dynamic CV Exam React 
 
+### Grade: C
+
 This application helps you create a resume quickly and easily. As a regular user, you must be provided with an email and a password to create, update, and delete your own resume. An admin user has access to every resume, and they can delete, update, and create a resume for both themselves and other regular users. Admins are also responsible for managing users, updating them, and deleting users. 
 
 
@@ -103,8 +105,6 @@ I wanted to use Jest more, but I didn’t have enough time. However, if I had mo
 - **Deleting Cv**: If you delete a user, the CV that is connected to the user does not get deleted. You have to manuelly delete that as well. 
 - **Passwords**: Passwords are not supposed to be seen so easily like that, it should normaly be bcrypt. 
 - **Admin making a cv**: If an admin wants to make an cv they have to do it through Cv's and connect their user to it.
-
-There have been a lot of family things during the exam. I'm not saying this to get sympathy, but I think it's important to mention the mistakes and what could have been done differently so you know I didn’t just leave it unfinished. The code that is done may not be perfect, but I tried my best.
 
 
 ## Inspiration 
